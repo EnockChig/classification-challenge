@@ -1,12 +1,6 @@
 Background
 The assignment assumes that you work at an Internet Service Provider (ISP) and you've been tasked with improving the email filtering system for its customers. You've been provided with a dataset that contains information about emails, with two possible classifications: spam and not spam. The ISP wants you to take this dataset and develop a supervised machine learning (ML) model that will accurately detect spam emails so it can filter them out of its customers' inboxes. The program will be creating two classification models to fit the provided data, and evaluate which model is more accurate at detecting spam. The models will be a logistic regression model and a random forest model.
 
-Code Source
-The code location is: Click Here to view
-
-Files
-spam_detector.ipynb Click here to view
-
 How to run the program
 Download the files and then use jupyter notebook or jupyter lab to open the Crypto_Clustering_starter_code.ipynb file.
 
